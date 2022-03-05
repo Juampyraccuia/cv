@@ -1,0 +1,73 @@
+h1 {
+    background-color: yellow;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+li {
+    text-align: justify;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#foto {
+    border: ridge;
+    border-radius: 3px;
+    border-color: gold;
+    border-width: 10px;
+    float: left;
+    margin-right: 9px;
+}
+
+.datos {
+    background-color: coral;
+    height: auto;
+    width: 300px;
+    float: left;
+    border: dashed;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.dat {
+    font-size: 20px;
+}
+
+.listas {
+    background-color: aqua;
+    height: 160px;
+    width: 270px;
+    float: left;
+    border: dashed;
+    text-align: justify;
+}
+
+#perfil {
+    background-color: rgb(113, 202, 218);
+    height: 150px;
+    width: 650px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6px;
+    float: left;
+    text-align: center;
+    border: double;
+    border-width: 7px;
+}
+
+#contacto {
+    background-color: rgb(171, 106, 231);
+}
+
+a {
+    text-decoration: none;
+}
